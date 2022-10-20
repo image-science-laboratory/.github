@@ -11,5 +11,5 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## Document (Read only Member)
+## Document (Only Members Can See)
 https://github.com/image-science-laboratory/document 
