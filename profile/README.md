@@ -12,4 +12,4 @@
 -->
 
 ## Document (Only Members Can See)
-https://github.com/image-science-laboratory/document 
+https://github.com/image-science-laboratory/.github-private/tree/main/profile
